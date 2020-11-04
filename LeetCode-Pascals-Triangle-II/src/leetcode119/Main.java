@@ -1,4 +1,4 @@
-package pascal;
+package leetcode119;
 
 import java.util.List;
 
