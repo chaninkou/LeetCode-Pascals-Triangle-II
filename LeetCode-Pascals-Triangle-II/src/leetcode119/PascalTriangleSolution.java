@@ -21,7 +21,7 @@ public class PascalTriangleSolution {
             }
         }
         
-        // getting the list view of Array 
+        // Get the list view of Array 
         return Arrays.asList(array);
     }
 }
